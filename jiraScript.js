@@ -1,5 +1,5 @@
-
-
+     
+   
 let body = document.querySelector("body");
 let Allcolors = document.querySelectorAll(".color");
 let main = document.querySelector(".main");
