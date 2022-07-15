@@ -8,7 +8,7 @@ const colors = ["blue", "green", "yellow", "aqua"];
 
 // console.log(ticketHeader);
 
-
+// xdhfhxdhdxhbdxfh
 console.log(Allcolors);
 let addbtn =document.querySelector(".fa-plus");
 console.log(addbtn);
